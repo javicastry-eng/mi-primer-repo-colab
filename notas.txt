@@ -1,3 +1,3 @@
 Aprendiendo control de versiones con Git en Google Colab
 Segunda línea: Ya domino la diferencia entre Untracked, Staged y Committed.
-Línea en conflicto: Editada desde la rama master
+Línea en conflicto: Resuelta conservando ambas ideas de master y desarrollo.
